@@ -1,7 +1,9 @@
 /* CSS by Kidron */
 /* GLOBAL STYLE */
 h1 {
-    font-size: 50 px;
-    color: #016C79;
-    background-color: pink;
+    font-size: 300px;
+    color: #cbc196;
+    background-color: #393169;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
